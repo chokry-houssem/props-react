@@ -1,0 +1,24 @@
+.Name , .bio , .Profession
+{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(228, 105, 24);
+    text-align: center;
+}
+.Name span , .bio span , .Profession span 
+{
+    font-size: 17px;
+    font-weight: 600;
+    color:  rgb(33, 219, 243);
+}
+
+img{
+    
+    margin-left: 530px;
+    width: 20%;
+    right: 30%;
+}
+body{
+    background: linear-gradient(to left , rgb(228, 105, 24), rgb(233, 172, 80) , white ,  rgb(149, 228, 238),rgb(33, 219, 243));
+}
