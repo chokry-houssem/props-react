@@ -5,14 +5,14 @@ import User from './profile/profile';
 import Myimage from './profile/undraw_my_documents_ym8x.svg';
 
 const user = 
-  [
+
     {
       fullName:"Amel Benabdalleh" ,
      bio:"hello",
      profession: "Marketing",
      image: Myimage,
   }
-  ]
+  
 
 
 class App extends Component {
