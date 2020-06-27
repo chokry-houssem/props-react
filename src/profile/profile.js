@@ -3,7 +3,7 @@ import propTypes from 'prop-types';
 import '../App.css';
 const user = (props) =>{
     console.log(props);
-    
+
     alert(props.x.fullName);
     return (
         <div> 
